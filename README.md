@@ -8,9 +8,17 @@ Este projeto consiste no desenvolvimento e validação de um **Spin Coater de ba
 
 Você pode conferir o funcionamento prático do Spin Coater através do vídeo abaixo (disponível localmente no repositório):
 
-https://github.com/user-attachments/assets/VID_20260306_151339.mp4
+<p align="center">
+  <video src="VID_20260306_151339.mp4" width="400px" controls>
+    Seu navegador não suporta a reprodução de vídeos.
+  </video>
+</p>
 
-> 🎥 *Também disponível para visualização rápida no [YouTube Shorts](https://www.youtube.com/shorts/L5SzGOxu2F8).*
+## 📺 Demonstração em Vídeo
+
+[![Demonstração do Spin Coater](https://img.youtube.com/vi/L5SzGOxu2F8/maxresdefault.jpg)](https://www.youtube.com/shorts/L5SzGOxu2F8)
+
+> 🎥 *Clique na imagem acima para assistir ao funcionamento do Spin Coater no YouTube Shorts.*
 
 ---
 
