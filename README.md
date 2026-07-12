@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/77799d40-d2a0-4bd6-8a32-3718a6f12467
-
-
-
-
-
 # Spin Coater (DIY)
 
 Este projeto consiste no desenvolvimento e validação de um **Spin Coater de baixo custo (DIY)** voltado para a instrumentação e preparação de amostras em biofísica de membranas. Utilizando peças impressas em 3D, componentes de drones e um microcontrolador ESP32, o equipamento foi projetado para produzir filmes lipídicos finos e homogêneos sobre lâminas de vidro com alta reprodutibilidade.
@@ -17,13 +9,10 @@ Este projeto consiste no desenvolvimento e validação de um **Spin Coater de ba
 Você pode conferir o funcionamento prático do Spin Coater através do vídeo abaixo (disponível localmente no repositório):
 
 <p align="center">
-  <video src="VID_20260306_151339.mp4" width="400px" controls>
+  <video src="https://github.com/user-attachments/assets/77799d40-d2a0-4bd6-8a32-3718a6f12467" width="400px" controls>
     Seu navegador não suporta a reprodução de vídeos.
   </video>
 </p>
-
-
-## 📺 Demonstração em Vídeo
 
 [![Demonstração do Spin Coater](https://img.youtube.com/vi/L5SzGOxu2F8/maxresdefault.jpg)](https://www.youtube.com/shorts/L5SzGOxu2F8)
 
